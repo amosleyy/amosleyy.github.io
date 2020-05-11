@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: #00CED1;
+}
+
+div.review {
+    background-color: #E6EBF5; /* pale blue */
+    border: 1px solid #003399; /* dark blue */
+  }
+  p.summary {
+  	font-style: italic;
+  }
+#alert {
+    color: black;
+    font-weight: bold;
+    background: #FFFF66; /* yellow */
+    border: 2px solid black;
+    padding: 1em;
+  }
+    a {
+	  color: red;
+	  text-decoration: underline;
+  }
+
+nav a {
+	  color: white;
+	  background-color: #003399; /* dark blue */
+	  text-decoration: none;
+  }
+div {
+  margin-top: 15px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: center;
+}
+
+.section-style {
+  margin-right: 25px;
+  margin-left: 25px;
+  background-color: white;
+}
