@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Amaya Mosley`s Portfolio`s</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+    <a href="#main-content">Skip to main content</a>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p id="alert">Important! All classes are cancelled today.</p>
 
-You can use the [editor on GitHub](https://github.com/amosleyy/amosleyy.github.io/edit/master/index.html) to maintain and preview the content for your website in Markdown files.
+    <div class="image-section">
+      <div class="section-style">
+        <img src="https://source.unsplash.com/random/400x200" alt="" />
+        <p>A random image courtesy of unsplash.com.</p>
+      </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <div class="section-style">
+        <img src="https://source.unsplash.com/random/400x200" alt="" />
+        <p>A random image courtesy of unsplash.com.</p>
+      </div>
+    </div>
 
-### Markdown
+    <div class="image-section">
+      <div class="section-style">
+        <img src="https://source.unsplash.com/random/400x200" alt="" />
+        <p>A random image courtesy of unsplash.com.</p>
+      </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amosleyy/amosleyy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      <div class="section-style">
+        <img src="https://source.unsplash.com/random/400x200" alt="" />
+        <p>A random image courtesy of unsplash.com.</p>
+      </div>
+    </div>
+  </body>
+</html>
+   <div class="review">
+    <h2>The Godfather</h2>
+    <p class="summary">The Godfather (1972) is the greatest movie of all time,
+      according to numerous surveys of movie critics and audiences alike.</p>
+    <p>The Godfather is... (your review here)</p>
+  </div>
+  <div class="review">
+    <h2>Avatar</h2>
+    <p class="summary">Avatar (2009) is the highest grossing film of all time,
+      earning approximately $2.8 billion.</p>
+    <p>Avatar is... (your review here)</p>
+  </div>
