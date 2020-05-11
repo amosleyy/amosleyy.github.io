@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
     <title>Amaya Mosley`s Portfolio`s</title>
     <link rel="stylesheet" href="styles/styles.css" />
     <a href="#main-content">Skip to main content</a>
