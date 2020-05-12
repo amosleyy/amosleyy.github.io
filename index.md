@@ -2,7 +2,6 @@
 <html>
     <head>Amaya Mosley`s Portfolio`s
     <link rel="stylesheet" href="styles/styles.css" />
-    <a href="#main-content">Skip to main content</a>
   </head>
   <body>
     <h1>Hello, World!</h1>
