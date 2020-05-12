@@ -6,12 +6,7 @@
   <body>
     <h1>Hello, World!</h1>
     <p id="alert">Important! All classes are cancelled today.</p>
-       body{
-    background-color: #afeeee; /* pale blue */
-    border: 1px solid;#0000A0; /* dark blue */
-  }
-
-    <div class="image-section">
+      <div class="image-section">
       <div class="section-style">
       <img src="https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/107179014?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27stop_sign.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200512T000000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAIL7WQYDOOHAZJGWQ%2F20200512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=141416eeb15f2d917555dc823d3ad946fb04f71b3dcab520949b25e2da7ef886" alt="" />
         <p> Stop Sign</p>
