@@ -3,12 +3,13 @@
     <head>Amaya Mosley`s Portfolio`s
     <link rel="stylesheet" href="styles/styles.css" />
   </head>
-      body{
+  <body>
+    <h1>Hello, World!</h1>
+    <p id="alert">Important! All classes are cancelled today.</p>
+       body{
     background-color: #afeeee; /* pale blue */
     border: 1px solid;#0000A0; /* dark blue */
   }
-    <h1>Hello, World!</h1>
-    <p id="alert">Important! All classes are cancelled today.</p>
 
     <div class="image-section">
       <div class="section-style">
